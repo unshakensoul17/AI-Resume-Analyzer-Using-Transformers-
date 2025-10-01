@@ -1,0 +1,22 @@
+{
+    "folders": [
+        "src",
+        "src/utils",
+        "models",
+        "data",
+        "notebooks",
+        "config",
+        "logs",
+        ".streamlit"
+    ],
+    "files": [
+        "README.md",
+        "requirements.txt",
+        ".gitignore",
+        "app.py",
+        "src/__init__.py",
+        "src/utils/__init__.py",
+        "config/config.yaml",
+        ".streamlit/config.toml"
+    ]
+}
